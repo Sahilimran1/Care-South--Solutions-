@@ -1,0 +1,14 @@
+{
+  "name": "Care South Solutions",
+  "short_name": "Care South",
+  "theme_color": "#4A148C",
+  "background_color": "#FAF7F2",
+  "display": "standalone",
+  "icons": [
+    {
+      "src": "/assets/apple-touch-icon.png",
+      "sizes": "180x180",
+      "type": "image/png"
+    }
+  ]
+}
